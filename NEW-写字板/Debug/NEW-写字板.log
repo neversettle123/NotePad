@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/3/4 17:16:06。
+     1>项目“F:\work\test\NEW-写字板\NEW-写字板\NEW-写字板.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\NEW-写字板.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "NEW-写字板.cpp"
+         NEW-写字板.cpp
+     1>f:\work\test\new-写字板\new-写字板\new-写字板.cpp(152): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\work\test\NEW-写字板\Debug\NEW-写字板.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\work\test\NEW-写字板\Debug\NEW-写字板.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\work\test\NEW-写字板\Debug\NEW-写字板.lib" /MACHINE:X86 "Debug\NEW-写字板.res"
+         "Debug\NEW-写字板.obj"
+         Debug\stdafx.obj
+         NEW-写字板.vcxproj -> F:\work\test\NEW-写字板\Debug\NEW-写字板.exe
+     1>已完成生成项目“F:\work\test\NEW-写字板\NEW-写字板\NEW-写字板.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.19
